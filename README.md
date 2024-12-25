@@ -1,13 +1,10 @@
 # Setup Guide for Various Sandbox Environments
 
-<!--toc:start-->
-
 - [Setup Guide for Various Sandbox Environments](#setup-guide-for-various-sandbox-environments)
   - [Virtual Machine](#virtual-machine)
     - [Installation (MacOS)](#installation-macos)
   - [Sandboxes](#sandboxes)
   - [Shared Tools](#shared-tools)
-  <!--toc:end-->
 
 ## Virtual Machine
 
@@ -26,7 +23,7 @@ rm test.img
 
 Various environments used for research and performance testing
 
-1. [Python 3.12 (Bullseye)](./box/py3.12.8)
+1. [Debian 11.11.0 (Bullseye) - AMD64](./box/debian-11.11.0-amd64)
 
 ## Shared Tools
 
