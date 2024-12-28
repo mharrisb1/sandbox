@@ -58,5 +58,3 @@ zplug load --verbose
 EOF
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-sudo apt-get install -y fonts-powerline
